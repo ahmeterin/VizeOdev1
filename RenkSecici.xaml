@@ -1,0 +1,23 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VizeOdev.RenkSeciciPage"
+             Title="RenkSeciciPage">
+
+    <StackLayout Padding="20">
+        <Label Text="Kırmızı" />
+        <Slider x:Name="SliderRed" Minimum="0" Maximum="255" ValueChanged="OnSliderValueChanged" />
+
+        <Label Text="Yeşil" />
+        <Slider x:Name="SliderGreen" Minimum="0" Maximum="255" ValueChanged="OnSliderValueChanged" />
+
+        <Label Text="Mavi" />
+        <Slider x:Name="SliderBlue" Minimum="0" Maximum="255" ValueChanged="OnSliderValueChanged" />
+
+        <BoxView x:Name="ColorBox" HeightRequest="100" WidthRequest="100" BackgroundColor="Black" />
+
+        <Label x:Name="LabelColorCode" />
+
+        <Button Text="Rastgele Renk Oluştur" Clicked="OnRandomColorButtonClicked" />
+        <Button Text="Kodu Kopyala" Clicked="OnCopyButtonClicked" />
+    </StackLayout>
+</ContentPage>

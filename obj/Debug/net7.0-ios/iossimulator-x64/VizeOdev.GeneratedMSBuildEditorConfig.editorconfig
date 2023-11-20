@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = VizeOdev
+build_property.ProjectDir = E:\Study\4th term 1\Gorsel Programlama\VizeOdev1\
+
+[E:/Study/4th term 1/Gorsel Programlama/VizeOdev1/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[E:/Study/4th term 1/Gorsel Programlama/VizeOdev1/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[E:/Study/4th term 1/Gorsel Programlama/VizeOdev1/KrediHesaplayici.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.KrediHesaplayici.xaml
+build_metadata.AdditionalFiles.TargetPath = KrediHesaplayici.xaml
+build_metadata.AdditionalFiles.RelativePath = KrediHesaplayici.xaml
+
+[E:/Study/4th term 1/Gorsel Programlama/VizeOdev1/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[E:/Study/4th term 1/Gorsel Programlama/VizeOdev1/RenkSecici.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.RenkSecici.xaml
+build_metadata.AdditionalFiles.TargetPath = RenkSecici.xaml
+build_metadata.AdditionalFiles.RelativePath = RenkSecici.xaml
+
+[E:/Study/4th term 1/Gorsel Programlama/VizeOdev1/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[E:/Study/4th term 1/Gorsel Programlama/VizeOdev1/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[E:/Study/4th term 1/Gorsel Programlama/VizeOdev1/VKIHesaplayici.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.VKIHesaplayici.xaml
+build_metadata.AdditionalFiles.TargetPath = VKIHesaplayici.xaml
+build_metadata.AdditionalFiles.RelativePath = VKIHesaplayici.xaml
+
+[E:/Study/4th term 1/Gorsel Programlama/VizeOdev1/YapilacaklarListesi.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = VizeOdev.YapilacaklarListesi.xaml
+build_metadata.AdditionalFiles.TargetPath = YapilacaklarListesi.xaml
+build_metadata.AdditionalFiles.RelativePath = YapilacaklarListesi.xaml
